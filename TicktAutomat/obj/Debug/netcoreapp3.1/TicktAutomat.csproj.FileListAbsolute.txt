@@ -1,0 +1,16 @@
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\bin\Debug\netcoreapp3.1\TicktAutomat.exe
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\bin\Debug\netcoreapp3.1\TicktAutomat.deps.json
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\bin\Debug\netcoreapp3.1\TicktAutomat.runtimeconfig.json
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\bin\Debug\netcoreapp3.1\TicktAutomat.runtimeconfig.dev.json
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\bin\Debug\netcoreapp3.1\TicktAutomat.dll
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\bin\Debug\netcoreapp3.1\TicktAutomat.pdb
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\obj\Debug\netcoreapp3.1\TicktAutomat.csprojAssemblyReference.cache
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\obj\Debug\netcoreapp3.1\TicktAutomat.AssemblyInfoInputs.cache
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\obj\Debug\netcoreapp3.1\TicktAutomat.AssemblyInfo.cs
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\obj\Debug\netcoreapp3.1\TicktAutomat.csproj.CoreCompileInputs.cache
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\obj\Debug\netcoreapp3.1\TicktAutomat.dll
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\obj\Debug\netcoreapp3.1\TicktAutomat.pdb
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\obj\Debug\netcoreapp3.1\TicktAutomat.genruntimeconfig.cache
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\bin\Debug\netcoreapp3.1\FakeItEasy.dll
+C:\Users\leila\source\repos\TicktAutomat\TicktAutomat\obj\Debug\netcoreapp3.1\TicktAutomat.csproj.CopyComplete
